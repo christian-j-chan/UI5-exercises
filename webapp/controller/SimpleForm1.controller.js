@@ -15,5 +15,7 @@ sap.ui.define([
             this.getView().byId('input_city').setValue("");
             this.getView().byId('box_country').setValue("");
         },
+        //new change
+        
     });
 });
